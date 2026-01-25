@@ -18,9 +18,3 @@ I am a **Masters in Information Systems** student at **Stevens Institute of Tech
 * **DevOps & Backend:** Docker, Flask, FastAPI, Git
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B2003R&show_icons=true&theme=radical" alt="Rohit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2003R&layout=compact&theme=radical" alt="Top Languages" />
-</p>
